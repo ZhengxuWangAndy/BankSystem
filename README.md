@@ -22,7 +22,7 @@ Environment: Java 1.8, maven 3.8.1, mysql 8.0.28.
 
 ## GUI:
 
-![image-20221219000326409](/Users/zhengxuwang/Library/Application Support/typora-user-images/image-20221219000326409.png)
+![image-20221219000326409](https://github.com/ZhengxuWangAndy/BankSystem/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.12.46%20AM.png)
 
 ![image-20221219000341496](/Users/zhengxuwang/Library/Application Support/typora-user-images/image-20221219000341496.png)
 
