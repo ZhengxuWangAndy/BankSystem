@@ -24,10 +24,10 @@ Environment: Java 1.8, maven 3.8.1, mysql 8.0.28.
 
 ![image-20221219000326409](https://github.com/ZhengxuWangAndy/BankSystem/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.12.46%20AM.png)
 
-![image-20221219000341496](/Users/zhengxuwang/Library/Application Support/typora-user-images/image-20221219000341496.png)
+![image-20221219000341496](https://github.com/ZhengxuWangAndy/BankSystem/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.13.00%20AM.png)
 
-![image-20221219000411231](/Users/zhengxuwang/Library/Application Support/typora-user-images/image-20221219000411231.png)
+![image-20221219000411231](https://github.com/ZhengxuWangAndy/BankSystem/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.13.24%20AM.png)
 
-![image-20221219000427320](/Users/zhengxuwang/Library/Application Support/typora-user-images/image-20221219000427320.png)
+![image-20221219000427320](https://github.com/ZhengxuWangAndy/BankSystem/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.13.48%20AM.png)
 
-![image-20221219000451049](/Users/zhengxuwang/Library/Application Support/typora-user-images/image-20221219000451049.png)
+![image-20221219000451049](https://github.com/ZhengxuWangAndy/BankSystem/blob/main/imgs/Screen%20Shot%202022-12-19%20at%2012.14.51%20AM.png)
